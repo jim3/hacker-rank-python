@@ -27,12 +27,3 @@ arr = [
 
 print(countingSort(arr))
 
-""" 
-def countingSort(arr):
-    c_array = [0] * 100
-    for i in range(len(arr)):
-        for j in range(len(arr)):
-            if (arr[j] == i):
-                c_array[i] += 1
-    return c_array
- """
