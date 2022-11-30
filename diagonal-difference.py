@@ -16,6 +16,4 @@ arr = [
 ]
 
 print(diagonalDifference(arr))
-# for i in (arr):
-#    print(i)
-#    print(len(arr))
+
